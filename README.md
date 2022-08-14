@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-order-summary](screens/order-summary)
 - [screen-order-complete](screens/order-complete)
+- [screen-order-checkout](screens/order-checkout)
 
 # Getting started: Frontend
 
