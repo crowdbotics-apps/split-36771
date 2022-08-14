@@ -19,6 +19,7 @@
     "@screens/order-checkout": "file:./screens/order-checkout/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/order-summary": "file:./screens/order-summary/",
+    "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",

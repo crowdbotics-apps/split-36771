@@ -1233,13 +1233,16 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/order-checkout@file:./screens/order-checkout/":
+"@screens/order-checkout@file:./screens/order-checkout":
   version "1.0.0"
 
 "@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 
 "@screens/order-summary@file:./screens/order-summary":
+  version "1.0.0"
+
+"@screens/welcome@file:./screens/welcome/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
